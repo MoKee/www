@@ -3,6 +3,7 @@ module.exports = {
     search: false,
     lastUpdated: 'Last Updated',
     repo: 'MoKee/www',
+    docsDir: 'www',
     editLinks: true,
     locales: {
       '/': {
