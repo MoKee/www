@@ -1,14 +1,14 @@
 module.exports = {
   themeConfig: {
     search: false,
-    lastUpdated: 'Last Updated',
-    repo: 'MoKee/www',
+    docsRepo: 'MoKee/www',
     docsDir: 'www',
     editLinks: true,
     locales: {
       '/': {
         selectText: 'Languages',
         label: 'English',
+        lastUpdated: 'Last Updated',
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Download', link: 'https://download.mokeedev.com' },
@@ -19,6 +19,7 @@ module.exports = {
       '/zh/': {
         selectText: '选择语言',
         label: '简体中文',
+        lastUpdated: '上次更新',
         nav: [
           { text: '主页', link: '/zh/' },
           { text: '教程', link: '/zh/guide/' },
