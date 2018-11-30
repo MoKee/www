@@ -3,8 +3,8 @@
     "vuepress": "^0.14.8"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:release": "bash deploy.sh"
+    "www:dev": "vuepress dev www",
+    "www:build": "vuepress build www",
+    "www:release": "bash deploy.sh"
   }
 }
