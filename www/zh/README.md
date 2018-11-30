@@ -1,7 +1,6 @@
 ---
 home: true
 heroImage: /images/logo.png
-actionText: 快速上手 →
 actionLink: /guide/
 features:
 - title: OTA 升级
