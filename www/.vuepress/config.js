@@ -13,6 +13,7 @@ module.exports = {
         sidebar: {
           '/guide/': [
             '',
+            'getting_started',
             'feature',
           ]
         },

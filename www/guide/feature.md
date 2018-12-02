@@ -1,6 +1,6 @@
 # 特色功能
 
-::: warning 重要！
+::: warning 注意！
 以下展示的功能在不同的版本、设备上，可能存在差异。
 :::
 
@@ -8,7 +8,7 @@
 
 ## 短信界面
 
-::: warning 重要！
+::: warning 注意！
 当您刷入 [Open Gapps Mini](https://github.com/opengapps/opengapps/wiki/Mini-Package) 及更完整的版本，内置短信程序将会被替换为 Google 版本，下列功能将会丧失。
 :::
 
