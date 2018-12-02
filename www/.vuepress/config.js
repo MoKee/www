@@ -1,10 +1,10 @@
 module.exports = {
   themeConfig: {
-    sidebar: 'auto',
     search: false,
     docsRepo: 'MoKee/www',
     docsDir: 'www',
     editLinks: true,
+    sidebarDepth: 2,
     locales: {
       '/': {
         selectText: 'Languages',
@@ -21,6 +21,12 @@ module.exports = {
         selectText: '选择语言',
         label: '简体中文',
         lastUpdated: '上次更新',
+        sidebar: {
+          '/zh/guide/': [
+            '',
+            'feature',
+          ]
+        },
         nav: [
           { text: '主页', link: '/zh/' },
           { text: '指南', link: '/zh/guide/' },
@@ -38,7 +44,7 @@ module.exports = {
       description: 'Android Community Operating System'
     },
     '/zh/': {
-      lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
+      lang: 'zh-CN',
       title: '魔趣ROM',
       description: '可能是中国最好的安卓开源系统'
     }
