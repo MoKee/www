@@ -7,46 +7,46 @@ module.exports = {
     sidebarDepth: 2,
     locales: {
       '/': {
-        selectText: 'Languages',
-        label: 'English',
-        lastUpdated: 'Last Updated',
-        nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Download', link: 'https://download.mokeedev.com' },
-          { text: 'Forum', link: 'https://bbs.mokeedev.com' },
-        ],
-        editLinkText: 'Edit this page on GitHub'
-      },
-      '/zh/': {
         selectText: '选择语言',
         label: '简体中文',
         lastUpdated: '上次更新',
         sidebar: {
-          '/zh/guide/': [
+          '/guide/': [
             '',
             'feature',
           ]
         },
         nav: [
-          { text: '主页', link: '/zh/' },
-          { text: '指南', link: '/zh/guide/' },
+          { text: '主页', link: '/' },
+          { text: '指南', link: '/guide/' },
           { text: '下载', link: 'https://download.mokeedev.com' },
           { text: '论坛', link: 'https://bbs.mokeedev.com' },
         ],
         editLinkText: '在 GitHub 上编辑此页'
-      }
+      },
+      '/en/': {
+        selectText: 'Languages',
+        label: 'English',
+        lastUpdated: 'Last Updated',
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'Download', link: 'https://download.mokeedev.com' },
+          { text: 'Forum', link: 'https://bbs.mokeedev.com' },
+        ],
+        editLinkText: 'Edit this page on GitHub'
+      },
     }
   },
   locales: {
     '/': {
-      lang: 'en-US',
-      title: 'MoKee ROM',
-      description: 'Android Community Operating System'
-    },
-    '/zh/': {
       lang: 'zh-CN',
       title: '魔趣ROM',
       description: '可能是中国最好的安卓开源系统'
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'MoKee ROM',
+      description: 'Android Community Operating System'
     }
   },
   head: [

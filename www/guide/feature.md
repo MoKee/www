@@ -1,4 +1,4 @@
-# 功能
+# 特色功能
 
 ::: warning 重要！
 以下展示的功能在不同的版本、设备上，可能存在差异。
@@ -23,7 +23,21 @@
 
 ### 自动识别验证码短信 <Badge text="MK60.1+"/>
 
+魔趣会自动识别验证码类短信，您只需点击通知即可一键复制验证码，提高输入效率。
+
 ![captcha message](/screenshots/zh/messaging_captcha.png)
+
+### 自动删除验证码短信 <Badge text="MK71.2+"/>
+
+验证码短信具有时效性，长期保存是没有意义的。开启该选项，当您复制验证码后，短信会自动销毁。
+
+![captcha message auto delete](/screenshots/zh/messaging_captcha_autodelete.png)
+
+### 归档短信未读角标 <Badge text="MK71.2+" />
+
+我们未归档短信加入了未读角标，避免你错过需要及时阅读的短信。
+
+![message unread badge](/screenshots/zh/messaging_unread_badge.png)
 
 ## 拨号界面
 
