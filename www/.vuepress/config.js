@@ -1,5 +1,6 @@
 module.exports = {
   themeConfig: {
+    sidebar: 'auto',
     search: false,
     docsRepo: 'MoKee/www',
     docsDir: 'www',
@@ -22,7 +23,7 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: [
           { text: '主页', link: '/zh/' },
-          { text: '教程', link: '/zh/guide/' },
+          { text: '指南', link: '/zh/guide/' },
           { text: '下载', link: 'https://download.mokeedev.com' },
           { text: '论坛', link: 'https://bbs.mokeedev.com' },
         ],
