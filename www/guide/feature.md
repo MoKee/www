@@ -9,7 +9,10 @@
 ## 短信
 
 ::: warning 注意！
-当您刷入 [Open Gapps Mini](https://github.com/opengapps/opengapps/wiki/Mini-Package) 及更完整的版本，内置短信程序将会被替换为 Google 版本，下列功能将会丧失。
+当您刷入 [Open Gapps Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package) 或更完整的 [Open Gapps](https://opengapps.org/)，内置短信程序会替换为 Google 版本，以下特色功能将不再有效。
+
+我们建议需要使用 [Open Gapps](https://opengapps.org/) 的用户刷入 [Open Gapps Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package) 以确保功能完整性。
+
 :::
 
 ### 归属地信息 <Badge text="MK44.4+"/>
@@ -51,7 +54,12 @@ Google 并未在 [Android 开源项目 (AOSP)](https://source.android.com/) 中�
 
 ![短信快捷处理选项](/screenshots/zh/messaging/quick_message_option.png)
 
-## 拨号
+## 电话
 
+::: warning 注意！
+当您刷入 [Open Gapps Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package) 或更完整的 [Open Gapps](https://opengapps.org/)，内置电话程序会替换为 Google 版本，以下特色功能将不再有效。
 
+我们建议需要使用 [Open Gapps](https://opengapps.org/) 的用户刷入 [Open Gapps Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package) 以确保功能完整性。
+
+:::
 
