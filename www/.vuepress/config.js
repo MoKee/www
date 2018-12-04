@@ -52,5 +52,6 @@ module.exports = {
   },
   head: [
     ['link', { rel: 'icon', href: '/images/logo.png' }]
-  ]
+  ],
+  ga: 'UA-37324061-13'
 }

@@ -19,7 +19,7 @@
 
 ![号码归属地](/screenshots/zh/messaging/location_display.png)
 
-### 智能归档短信 <Badge text="目前仅支持中国大陆、中国香港、马来西亚与印度号码的识别" type="warn"/> <Badge text="MK71.2+"/>
+### 智能归档短信 <Badge text="当前支持中国大陆、中国香港、马来西亚与印度号码的识别" type="warn"/> <Badge text="MK71.2+"/>
 
 当下，我们的短信程序中充斥着各类通知与验证码短信。它们的存在使得我们检索与好友间的日常短信变得极为困难。因此，魔趣将帮助您自动归档此类短信，让重要短信变得清晰可见。
 
@@ -61,7 +61,7 @@ Google 并未在 [Android 开源项目 (AOSP)](https://source.android.com/) 中�
 魔趣建议需要使用 [Open Gapps](https://opengapps.org/) 的用户刷入 [Open Gapps Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package) 以确保功能完整性。
 :::
 
-### T9 拨号 <Badge text="MK44.4+" />
+### T9 拨号 <Badge text="当前支持汉语、韩语、希腊语、俄语、希伯来语和乌克兰语" type="warn"/> <Badge text="MK44.4+" />
 
 您可以在拨号面板通过输入号码、姓名全拼或是首字母的方式来检索联系人
 
