@@ -21,4 +21,5 @@ Android 是一个支持多种移动设备的开源操作系统，由 [Google](ht
 
 ## 开发团队
 
-由 [魔趣开源项目团队](https://bbs.mokeedev.com/groups/developers) 领导及开发，其主要成员包括 [@dianlujitao](https://weibo.com/dianlujitao)、[@Ryuinferno](https://forum.xda-developers.com/member.php?u=4576707)、[xiaobai不会写shell](https://weibo.com/u/3138080394)、[@XiNGRZ](https://weibo.com/xingrz)、[@乖奕虎](https://weibo.com/guaiyihu)、[@琉璃为浅梦](https://weibo.com/tingyiisaac)、[@马丁龙猪](https://weibo.com/martincz) 等知名开发者，他们在 Android 功能开发、机型适配上有着丰富的经验。
+由 [魔趣开源项目团队](https://bbs.mokeedev.com/groups/developers) 领导及开发，其主要成员包括 [@dianlujitao](https://weibo.com/dianlujitao)、[@Ryuinferno](https://forum.xda-developers.com/member.php?u=4576707)、[@xiaobai不会写shell](https://weibo.com/u/3138080394)、[@XiNGRZ](https://weibo.com/xingrz)、[@乖奕虎](https://weibo.com/guaiyihu)、[@琉璃为浅梦](https://weibo.com/tingyiisaac)、[@马丁龙猪](https://weibo.com/martincz) 等知名开发者，他们在 Android 功能开发、机型适配上有着丰富的经验。
+
