@@ -31,7 +31,7 @@
 
 ### 自动删除验证码短信 <Badge text="MK71.2+"/>
 
-验证码短信具有时效性，长期保存是没有意义的。开启该选项，当您复制验证码后，短信会自动销毁。
+验证码短信具有时效性，长期保存是没有意义的。开启此选项，当您复制验证码后，短信会自动销毁。
 
 ![自动删除验证码短信](/screenshots/zh/messaging/captcha_autodelete.png)
 
@@ -80,8 +80,20 @@ Google 并未在 [Android 开源项目 (AOSP)](https://source.android.com/) 中�
 
 ![拨号面板](/screenshots/zh/phone/dialer_location.png) ![通话记录](/screenshots/zh/phone/call_log_location.png)![联系人详情](/screenshots/zh/phone/contact_location.png) ![来电、去电](/screenshots/zh/phone/incall_location.png)![来电浮动通知](/screenshots/zh/phone/heads-up_notification.png) ![未接来电通知](/screenshots/zh/phone/missed_call.png)
 
-### 中文姓氏联系人头像
+### 中文姓氏联系人头像 <Badge text="MK71.2+" />
 
 Android 原生会提取英文联系人的首字母作为头像，魔趣加入了中文姓氏的支持。
 
 ![中文姓氏联系人头像](/screenshots/zh/phone/chinese_letter.png)
+
+### 陌生号码标记 <Badge text="MK71.2+" />
+
+您可以在通话记录中对陌生号码进行临时标记，标记信息仅会存储在本机。
+
+![陌生号码标记](/screenshots/zh/phone/mark_phone_number_01.png) ![陌生号码标记](/screenshots/zh/phone/mark_phone_number_02.png)
+
+### 通话自动录音  <Badge text="依赖设备内核支持，若您的设备不存在此选项，请向设备维护者发出请求。" type="warn"/> <Badge text="MK71.2+" />
+
+开启此选项，系统会在通话时自动开启通话录音功能。
+
+![通话自动录音](/screenshots/zh/phone/call_recording_01.png) ![通话自动录音](/screenshots/zh/phone/call_recording_02.png)
