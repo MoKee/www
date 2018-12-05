@@ -128,3 +128,11 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 借助 CalDAV 协议，您可以与支持该协议的其它软件同步数据，例如与 Google 日历同步数据。<Badge text="MK71.2+" />
 
 ![CalDAV 协议同步](/screenshots/zh/calendar/calendar_CalDAV.png)
+
+## 主题
+
+### Substratum 主题管理器
+
+您可以在 [Google Play](https://play.google.com/store/search?q=substratum+theme&c=apps) 下载安装数百款 Substratum 主题，个性化系统界面。<Badge text="MK71.2+" />
+
+![substratum 主题管理器](/screenshots/zh/theme/substratum_01.png) ![substratum 主题管理器](/screenshots/zh/theme/substratum_02.png)
