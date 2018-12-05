@@ -13,8 +13,8 @@ features:
 - title: 多彩主题
   details: 自定义您的手机外观，使它变得丰富多彩！
 - title: 开源代码
-  details: 我们的源代码[公开](https://github.com/MoKee)在 GitHub，因此任何人都可以贡献或查看。
+  details: 我们的源代码公开在 GitHub，因此任何人都可以贡献或查看。
 - title: 支持
-  details: 如需任何帮助或支持，您可以访问我们的[社区](https://bbs.mokeedev.com/)或 [Telegram 小组](https://t.me/mokeecommunity)，会有很多人愿意帮助您。
+  details: 如需任何帮助或支持，您可以访问我们的社区或 Telegram 小组，会有很多人愿意帮助您。
 footer: MIT Licensed | Copyright © 2012 - 2018 MoKee Open Source Team
 ---
