@@ -1,7 +1,7 @@
 # 功能简介
 
 ::: warning 注意！
-以下列举的是 魔趣ROM 在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上所做的改进，不同版本间可能存在差异。例如一个功能只支持基于 Android 8.0 的 MK80.1 或更高版本，将会被标注为 <Badge text="MK80.1+"/>
+以下列举的是 魔趣ROM 在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上所做的部分改进，不同版本间可能存在差异。例如一个功能只支持基于 Android 8.0 的 MK80.1 或更高版本，将会被标注为 <Badge text="MK80.1+"/>
 :::
 
 [[toc]]
@@ -102,7 +102,7 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 ## 日历
 
 ::: tip 全新日历程序！
-我们弃用了 [Android 开源项目 (AOSP)](https://source.android.com/) 中默认的日历程序，使用 [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 开源代码二次开发了全新的版本。新版本更加符合 [Material Design](https://material.io/) 设计语言，更好用！
+我们弃用了 [Android 开源项目 (AOSP)](https://source.android.com/) 中默认的日历程序（该版本已经长期没有得到 Google 的更新，不符合 [Material Design](https://material.io/) 设计语言规范），使用 [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 开源代码开发了全新的版本。
 :::
 
 ::: warning 注意！
@@ -136,3 +136,15 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 您可以在 [Google Play](https://play.google.com/store/search?q=substratum+theme&c=apps) 下载安装数百款 Substratum 主题，个性化系统界面。<Badge text="MK71.2+" />
 
 ![substratum 主题管理器](/screenshots/zh/theme/substratum_01.png) ![substratum 主题管理器](/screenshots/zh/theme/substratum_02.png)
+
+## 音乐
+
+::: tip 全新音乐程序！
+我们弃用了 [Android 开源项目 (AOSP)](https://source.android.com/) 中默认的音乐程序（该版本已经长期没有得到 Google 的更新，不符合 [Material Design](https://material.io/) 设计语言规范），使用 [Phonograph](https://github.com/kabouzeid/Phonograph) 开源代码开发了全新的版本。
+:::
+
+### Phonograph 音乐播放器
+
+Phonograph 是 Android 平台上最好的本地音乐播放器之一，我们现在将它带给大家。<Badge text="MK71.2+" />
+
+![Phonograph 音乐播放器](/screenshots/zh/music/phonograph.png)
