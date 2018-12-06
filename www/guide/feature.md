@@ -133,7 +133,26 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 ### Substratum 主题引擎
 
- [魔趣 ROM](https://download.mokeedev.com/) 集成了强大的 Substratum 主题引擎，您可以在 [Google Play](https://play.google.com/store/search?q=substratum+theme&c=apps) 下载安装数百款主题，个性化系统界面。<Badge text="MK71.2+" />
+[魔趣 ROM](https://download.mokeedev.com/) 集成了强大的 Substratum 主题引擎，您可以在 [Google Play](https://play.google.com/store/search?q=substratum+theme&c=apps) 下载安装数百款主题，个性化系统界面。<Badge text="MK71.2+" />
 
 ![substratum 主题管理器](/screenshots/zh/theme/substratum_01.png) ![substratum 主题管理器](/screenshots/zh/theme/substratum_02.png)
 
+## 桌面
+
+### 显示当前城市天气、应用自定义图标包
+
+您可以设置在桌面上显示当前城市的天气信息，或是应用一个程序图标包。<Badge text="MK71.2+" />
+
+![当前城市天气与图标包](/screenshots/zh/launcher/lawnchair_home.png)
+
+### 整合 Google Feed
+
+当您的设备安装有 [Open Gapps](https://opengapps.org/) 时，便可以开启 Google Feed。<Badge text="MK71.2+" />
+
+![显示 Google Feed](/screenshots/zh/launcher/lawnchair_feed.png)
+
+### 丰富的个性化选项
+
+包括但不限于修改图标、网格尺寸、隐藏应用、模糊效果、手势控制等。<Badge text="MK71.2+" />
+
+![丰富的个性化选项](/screenshots/zh/launcher/lawnchair_settings.png)
