@@ -1,4 +1,4 @@
-# 特色功能
+# 功能简介
 
 ::: warning 注意！
 以下列举的是 魔趣ROM 在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上所做的改进，不同版本间可能存在差异。例如一个功能只支持基于 Android 8.0 的 MK80.1 或更高版本，将会被标注为 <Badge text="MK80.1+"/>

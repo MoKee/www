@@ -41,7 +41,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '魔趣ROM',
+      title: '魔趣 ROM',
       description: '可能是中国最好的安卓开源系统'
     },
     '/en/': {
