@@ -1,7 +1,7 @@
 # 功能简介
 
 ::: warning 注意！
-以下列举的是 [魔趣 ROM](https://download.mokeedev.com/) 在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上所做的部分改进，不同版本间可能存在差异。例如一个功能只支持基于 Android 8.0 的 MK80.1 或更高版本，将会被标注为 <Badge text="MK80.1+"/>
+以下列举的是 [魔趣 ROM](https://download.mokeedev.com/) 在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上所做的部分改进。有些仅在特定版本有效，例如只支持 MK80.1 或更高版本的功能，将会被标注为 <Badge text="MK80.1+"/>
 :::
 
 [[toc]]
