@@ -7,5 +7,6 @@
     "www:build": "vuepress build www",
     "www:release": "bash deploy.sh"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }

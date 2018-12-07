@@ -30,9 +30,9 @@
 
 ![归档短信未读角标](/screenshots/zh/messaging/unread_badge.png)
 
-### 可滑动的归档界面
+### 可滑动的已归档会话
 
-Google 并未在 [Android 开源项目 (AOSP)](https://source.android.com/) 中添加短信归档界面的滑动支持，魔趣完善了它。<Badge text="MK60.1+" />
+Android 原生版本中已归档会话不支持滑动操作（删除、归档），魔趣完善了它。<Badge text="MK60.1+" />
 
 ![可左右滑动的归档界面](/screenshots/zh/messaging/swipeable.png)
 
@@ -44,13 +44,13 @@ Google 并未在 [Android 开源项目 (AOSP)](https://source.android.com/) 中�
 
 ### 自动识别验证码短信
 
-魔趣会自动识别验证码类短信，您只需点击通知即可一键复制验证码，提高效率。<Badge text="MK60.1+"/>
+魔趣会自动识别验证码类短信，您只需点击通知即可一键复制验证码，提高效率。<Badge text="当前支持简体中文、繁体中文与英文验证码短信" type="warn"/> <Badge text="MK60.1+"/>
 
 ![验证码短信](/screenshots/zh/messaging/captcha_notification.png)
 
 ### 自动删除验证码短信
 
-验证码短信具有时效性，长期保存是没有意义的。开启此选项，当您复制验证码后，短信会自动销毁。<Badge text="MK71.2+"/>
+验证码短信具有时效性，无需永久保存。开启此选项，当您复制验证码后，短信会自动销毁。<Badge text="MK71.2+"/>
 
 ![自动删除验证码短信](/screenshots/zh/messaging/captcha_autodelete.png)
 
@@ -89,13 +89,13 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 ### 陌生号码标记
 
-您可以在通话记录中对陌生号码进行临时标记，标记信息仅会存储在本机。<Badge text="MK71.2+" />
+您可以在通话记录中对陌生号码进行标记，标记信息仅会存储在本机，无需担心隐私问题。<Badge text="MK71.2+" />
 
 ![陌生号码标记](/screenshots/zh/phone/mark_phone_number_01.png) ![陌生号码标记](/screenshots/zh/phone/mark_phone_number_02.png)
 
 ### 通话自动录音
 
-开启此选项，系统会在通话时自动开启通话录音功能。<Badge text="依赖设备内核支持，若您的设备不存在此选项，请向设备维护者发出请求。" type="warn"/> <Badge text="MK71.2+" />
+开启此选项，系统会在通话时自动开启通话录音功能。<Badge text="依赖设备内核支持，若您的设备不存在此选项，请向设备维护者发出请求" type="warn"/> <Badge text="MK71.2+" />
 
 ![通话自动录音](/screenshots/zh/phone/call_recording_01.png) ![通话自动录音](/screenshots/zh/phone/call_recording_02.png)
 
