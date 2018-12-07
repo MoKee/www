@@ -111,7 +111,7 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 魔趣建议需要使用 [Open Gapps](https://opengapps.org/) 的用户刷入 [Open Gapps Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package) 以确保功能完整性。
 :::
 
-### 显示农历、节气、法定节假日与调休
+### 农历、节气、法定节假日与调休
 
 日历视图中会显示农历、节气、法定节假日与调休信息。<Badge text="MK71.2+" />
 
@@ -156,3 +156,11 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 包括但不限于修改图标、网格尺寸、隐藏应用、模糊效果、手势控制等。<Badge text="MK71.2+" />
 
 ![丰富的个性化选项](/screenshots/zh/launcher/lawnchair_settings.png)
+
+## 系统界面
+
+### 农历、节气、节假日
+
+锁屏界面与状态栏会显示当天的农历、节气与节假日信息。<Badge text="MK81.0+" />
+
+![农历、节气、节假日](/screenshots/zh/systemui/keyguard_calendar.png) ![农历、节气、节假日](/screenshots/zh/systemui/statusbar_calendar.png)
