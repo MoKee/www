@@ -22,7 +22,7 @@
 
 ### 智能归档短信
 
-当下，我们的短信程序中充斥着各类通知与验证码短信。它们的存在使得我们检索与好友间的日常短信变得极为困难。因此，魔趣将帮助您自动归档此类短信，让重要短信变得清晰可见。<Badge text="当前支持中国大陆及港澳台、马来西亚与印度号码的识别" type="warn"/> <Badge text="MK71.2+"/>
+当下，我们的短信程序中充斥着各类通知与验证码短信。它们的存在让我们检索与好友间的日常短信变得极为困难。因此，魔趣将帮助您自动归档此类短信，让重要短信变得清晰可见。<Badge text="当前支持中国大陆及港澳台、马来西亚与印度号码的识别" type="warn"/> <Badge text="MK71.2+"/>
 
 ### 归档短信未读角标
 
@@ -102,7 +102,7 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 ## 日历
 
 ::: tip 全新日历程序！
-我们弃用了 [Android 开源项目 (AOSP)](https://source.android.com/) 中默认的日历程序（该版本已经长期没有得到 Google 的更新，不符合 [Material Design](https://material.io/) 设计语言规范），使用 [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 开源代码开发了全新的版本。
+魔趣弃用了 [Android 开源项目 (AOSP)](https://source.android.com/) 中默认的日历程序（该版本已经长期没有得到 Google 的更新，不符合 [Material Design](https://material.io/) 设计语言规范），使用 [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 开源代码开发了全新的版本。
 :::
 
 ::: warning 注意！
@@ -164,3 +164,24 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 锁屏界面与状态栏会显示当天的农历、节气与节假日信息。<Badge text="MK81.0+" />
 
 ![农历、节气、节假日](/screenshots/zh/systemui/keyguard_calendar.png) ![农历、节气、节假日](/screenshots/zh/systemui/statusbar_calendar.png)
+
+### 状态栏网速
+
+在状态栏实时显示网络流量信息。（魔趣已为您过滤VPN流量，许多ROM在开启VPN会显示双倍的网速，那是错误的） <Badge text="MK71.2+" />
+
+![状态栏网速](/screenshots/zh/systemui/statusbar_network_traffic.png)
+
+### 状态栏时间精细化与秒数
+
+在状态栏显示精细化的时间（例如凌晨）和秒数。<Badge text="精细化时间仅在系统设置为12小时制时有效" type="warn"/> <Badge text="MK60.1+" />
+
+![时间精细化显示与秒数](/screenshots/zh/systemui/statusbar_friendly_time.png)
+
+### 最近任务界面可用运存与任务锁
+
+在最近任务界面实时显示系统的可用运存，以及任务锁定按钮。（被锁定的任务不能被滑动清除） <Badge text="MK60.1+" />
+
+![最近任务界面可用运存与任务锁](/screenshots/zh/systemui/recentview_membar_tasklock.png)
+
+
+
