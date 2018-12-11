@@ -29,8 +29,16 @@ module.exports = {
         selectText: 'Languages',
         label: 'English',
         lastUpdated: 'Last Updated',
+        sidebar: {
+          '/en/guide/': [
+            '',
+            'getting_started',
+            'feature',
+          ]
+        },
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: 'Guide', link: '/en/guide/' },
           { text: 'Download', link: 'https://download.mokeedev.com' },
           { text: 'Forum', link: 'https://bbs.mokeedev.com' },
         ],
