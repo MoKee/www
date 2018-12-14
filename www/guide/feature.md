@@ -183,5 +183,14 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 ![最近任务界面可用运存与任务锁](/screenshots/zh/systemui/recentview_membar_tasklock.png)
 
+## 便捷操作
 
+### 指纹快速启动程序
 
+您可以在 设置 - 应用和通知 - 指纹快速启动 界面设置指纹来快速启动程序，例如在锁屏界面下，使用左手食指快速解锁屏幕并打开支付宝二维码付款界面。<Badge text="仅限支持指纹识别的设备" type="warn"/> <Badge text="MK71.2+" />
+
+![指纹快速启动程序](/screenshots/zh/shortcut/fingerprint.png)
+
+### 基于可信面孔的自动解锁
+
+当您的设备安装有 [Open Gapps](https://opengapps.org/) 并设置了可信面孔时，锁屏界面下识别到可信面孔会自动解锁设备。<Badge text="MK71.2+" />
