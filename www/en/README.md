@@ -15,5 +15,5 @@ features:
   details: Our source code is open on our Github organisation, hence anyone can conribute or just take a look at the code.
 - title: Support
   details: For any help or support, you can visit our community or Telegram group. There will be many people willing to help you.
-footer: MIT Licensed | Copyright © 2012 - 2018 MoKee Open Source Team
+footer: MIT Licensed | Copyright © 2012 - 2019 MoKee Open Source Team
 ---
