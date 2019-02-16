@@ -207,7 +207,7 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 新版本发布时，您无需下载完整包，只需要下载增量包就能更新系统。例如 Smartisan U3 Pro 的 Android 9.0 完整包约有 700 MB，而增量包只有区区 20 MB，为您节省流量与时间。<Badge text="MK44.4+" />
 
-![增量更新](/screenshots/zh/updater/incremental_updates.png)
+![增量更新](/screenshots/zh/updater/incremental_updates.gif)
 
 ### 精简与定制
 
