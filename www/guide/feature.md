@@ -187,7 +187,7 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 ### 全面屏手势
 
-您可以在 设置 - 系统 - 高级 - 手势 界面开启全面屏手势来代替传统导航键。<Badge text="MK71.2+" />
+您可以在 设置 - 系统 - 高级 - 手势 界面开启全面屏手势来代替传统导航键。<Badge text="MK90.0+" />
 
 ![全面屏手势](/screenshots/zh/gesture/bottom_gesture_navigation.gif)
 
