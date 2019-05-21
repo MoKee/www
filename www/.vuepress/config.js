@@ -20,6 +20,7 @@ module.exports = {
         nav: [
           { text: '主页', link: '/' },
           { text: '指南', link: '/guide/' },
+          { text: '条款', link: '/legal/' },
           { text: '下载', link: 'https://download.mokeedev.com' },
           { text: '论坛', link: 'https://bbs.mokeedev.com' },
         ],
@@ -39,6 +40,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Guide', link: '/en/guide/' },
+          { text: 'Terms', link: '/en/legal/' },
           { text: 'Download', link: 'https://download.mokeedev.com' },
           { text: 'Forum', link: 'https://bbs.mokeedev.com' },
         ],
