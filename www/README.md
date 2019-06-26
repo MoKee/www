@@ -16,5 +16,5 @@ features:
   details: 我们的源代码公开在Github，因此任何人都可以贡献或查看。
 - title: 支持
   details: 如需任何帮助或支持，您可以访问我们的社区或Telegram小组，会有很多人愿意帮助您。
-footer: MIT Licensed | Copyright © 2012 - 2019 MoKee Open Source Team
+footer: MIT Licensed | Copyright © 2012 - 2019 MoKee Open Source Project
 ---
