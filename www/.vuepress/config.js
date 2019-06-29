@@ -62,7 +62,8 @@ module.exports = {
   },
   head: [
     ['link', { rel: 'icon', href: '/images/logo.png' }],
-    ['link', { rel: 'canonical', href: 'https://www.mokeedev.com' }]
+    ['link', { rel: 'canonical', href: 'https://www.mokeedev.com' }],
+    ['meta', { name: 'baidu-site-verification', content: 'FFsr91ZAGp' }]
   ],
   ga: 'UA-37324061-13'
 }
