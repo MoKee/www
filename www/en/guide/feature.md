@@ -177,12 +177,6 @@ Android 原生会提取英文联系人的首字母作为头像，魔趣加入了
 
 ![时间精细化显示与秒数](/screenshots/zh/systemui/statusbar_friendly_time.png)
 
-### 最近任务界面可用运存与任务锁
-
-在最近任务界面实时显示系统的可用运存，以及任务锁定按钮。（被锁定的任务不能被滑动清除） <Badge text="MK60.1+" />
-
-![最近任务界面可用运存与任务锁](/screenshots/zh/systemui/recentview_membar_tasklock.png)
-
 ## 便捷操作
 
 ### 全面屏手势
