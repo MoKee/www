@@ -21,7 +21,7 @@ Unlocking the bootloader will delete all data on the device! Make sure you have 
 
 3. Open a Command Prompt (Windows) or Terminal (Linux or macOS) on the computer and enter:
 
-   ``` adb reboot bootloader ```
+   ```adb reboot bootloader```
 
    You can also start fastboot mode by key combination：
 
@@ -43,7 +43,7 @@ Unlocking the bootloader will delete all data on the device! Make sure you have 
 
    ::: warning Note
 
-   Please adjust the command according to the file name of recovery image.
+   Adjust the command according to the file name of a recovery image.
 
    :::
 
@@ -53,10 +53,10 @@ Unlocking the bootloader will delete all data on the device! Make sure you have 
 
 ## Install MoKee ROM through Recovery
 
-1. Download the Magic ROM package you want to install.
+1. Download the Mokee ROM package you want to install.
     * **Optional** - You can download the third-party extension packages, such as [OpenGapps](https://opengapps.org/).
 
-2. If you have not yet entered Recovery mode, please reboot into Recovery mode.
+2. If you haven't enter the Recovery mode yet, please reboot into Recovery mode.
     * After turning off the device, press and hold the **Volume Up + Power Button** until you enter Recovery mode, and then release.
 
 3. Select the `WIPE` button on the main interface.
