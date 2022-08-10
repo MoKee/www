@@ -10,7 +10,7 @@ Android 是一个支持多种移动设备的开源操作系统，由 [Google](ht
 
 本地化功能的缺失曾让许多钟情于原生 Android 的用户望而却步，[魔趣 ROM](https://download.mokeedev.com/) 出色的本地化功能一经推出就获得了大量用户的青睐，让原生 Android 从此变得好用起来!
 
-相比设备制造商臃肿的定制系统，[魔趣 ROM](https://download.mokeedev.com/) 简单纯净，性能出众，使您能够更加轻松的使用设备。
+相比设备制造商臃肿的定制系统，[魔趣 ROM](https://download.mokeedev.com/) 简单纯净，性能出众，使您能够更加轻松地使用设备。
 
 ## 开发团队
 
